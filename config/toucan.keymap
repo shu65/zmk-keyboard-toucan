@@ -27,10 +27,10 @@
             >;
         };
 
-        nav {
-            display-name = "NAV";
+        NUMBER_FUNCTION_ARROW {
+            display-name = "NUMBER_FUNCTION_ARROW";
             bindings = <
-&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSPC  &bt BT_CLR  &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4  &kp LEFT  &kp DOWN  &kp UP  &kp RIGHT  &trans  &trans  &kp LSHFT  &studio_unlock  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp LGUI  &trans  &kp SPACE  &kp RET  &trans  &kp RALT
+&kp TAB  &kp N1  &kp N2  &kp N3  &kp N4  &kp N5  &kp N6  &kp N7  &kp N8  &kp N9  &kp N0  &kp BSPC  &kp LCTRL  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F11  &kp F12  &trans  &trans  &kp UP_ARROW  &trans  &kp LSHFT  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10  &trans  &trans  &trans  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &kp LGUI  &trans  &trans  &kp LS(LEFT_WIN)  &kp DELETE  &kp RALT
             >;
         };
 
